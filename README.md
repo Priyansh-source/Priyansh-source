@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyansh Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/54594227/230801985-3a3b3a94-cfc9-4f74-a92d-941983591ac8.png)
+">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh-source&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh-source" /> </p>
 
